@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'AkagiYui Status',
+  SiteName: 'AkagiYui Service Status',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -10,7 +10,7 @@ window.Config = {
   ],
 
   // 日志天数
-  CountDays: 90,
+  CountDays: 360,
 
   // 是否显示检测站点的链接
   ShowLink: false,
